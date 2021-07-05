@@ -2,11 +2,26 @@ body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
+
+.top-side{
+    height: 1000px;
+}
 h1{
     font-size: 70px;
 }
+h2{
+    color: dimgrey;
+    font-size: 50px;
+    
+}
 h3{
     font-size: 20px;
+    color: dimgray;
+    text-align: center;
+}
+h4{
+    font-size: 50px;
+    text-align: center;
     color: dimgray;
 }
 .text-highlight{
@@ -35,3 +50,19 @@ h3{
     font-weight: 700;
     box-shadow: 10px 10px 30px orange;
 }
+.middle-side{
+    background-image: url("image/Frame\ 58.jpg");
+    background-size: 100% 100%;
+    height: 800px;
+    
+
+}
+#female-image{
+    width: 466px;
+    margin: 60px;
+}
+
+section{
+    height: 500px;
+}
+
