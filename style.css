@@ -82,7 +82,7 @@ p{
 .recipies h1{
     text-align: center;
     font-size: 60px;
-    color: orange;
+    color: dimgray;
 }
 .recipies p{
     text-align: center;
@@ -101,7 +101,8 @@ p{
     border-radius: 10px;
 }
 .card h2{
-    color: orange;
+    color: black;
+    font-size: 30px;
 }
 .card p{
     text-align: left;
@@ -118,4 +119,12 @@ p{
     color: white;
     text-align: center;
     padding-top: 100px;
+}
+
+.footer-contend h1{
+    font-size: 40px;
+}
+
+.text-highlight p{
+    color:white
 }
